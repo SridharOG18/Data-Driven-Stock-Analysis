@@ -74,3 +74,8 @@ The Stock Performance Dashboard provides a comprehensive visualization and analy
 - Modular and well-structured Python scripts.
 - Clear and interactive visualizations.
 - Comprehensive documentation.
+
+## Stock Market Analysis Dashboard  
+
+![Stock Market Analysis](https://github.com/SridharOG18/Data-Driven-Stock-Analysis/blob/main/StockIMG.png)
+
